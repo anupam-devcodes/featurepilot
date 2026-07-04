@@ -5,11 +5,9 @@
 > *Currently under active development.*
 
 ![Status](https://img.shields.io/badge/Status-Under%20Development-orange)
-![License](https://img.shields.io/badge/License-MIT-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-green)
 ![Database](https://img.shields.io/badge/PostgreSQL-336791)
 ![Cache](https://img.shields.io/badge/Redis-red)
-![Frontend](https://img.shields.io/badge/Frontend-Next.js-black)
 
 ---
 
@@ -188,3 +186,4 @@ Feature flags are a critical part of modern software delivery. Companies like Ne
 This project aims to recreate many of those core concepts in a simplified yet production-inspired implementation.
 
 ---
+ 
